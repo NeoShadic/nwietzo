@@ -1,3 +1,4 @@
-
-for i in 4:
-    print(i)
+one = 1
+if one == 1:
+    one +=1
+    print(one)
